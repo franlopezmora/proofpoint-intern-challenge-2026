@@ -1,0 +1,37 @@
+Proofpoint protects people, data, and AI agents.
+People connect through email, cloud tools, and collaboration tools.
+Data matters. Data protection matters.
+AI agents help people work faster, and AI can improve productivity.
+
+Security is not only about code.
+Security is also about people, processes, and systems.
+Systems need reliable code, reliable deployments, and reliable monitoring.
+
+Go is simple. Go is fast. Go is readable.
+Python is popular, but Go can be great for backend tools.
+Java is strong, and Python is flexible, but Go is clean.
+
+Email security matters!
+Cloud security matters.
+Data security matters.
+Human-centric security matters.
+
+Proofpoint builds resilient systems.
+Proofpoint helps protect data.
+Proofpoint helps protect people.
+Proofpoint helps organizations work securely.
+
+Work, work, work: teams work together.
+People learn, people build, people improve.
+Clean code wins; clear communication wins too.
+
+Backend, backend, backend.
+Linux, servers, networks, and APIs.
+REST APIs, JSON APIs, and modern CI/CD practices.
+
+Automation and AI-assisted workflows can improve operational efficiency.
+Automation helps teams reduce repetitive work.
+AI can support developers, but good engineering judgment still matters.
+
+Hello, hello, HELLO...
+World? world! WORLD.
