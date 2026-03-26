@@ -1,0 +1,9 @@
+SeriesName,SeasonNumber,EpisodeNumber,EpisodeTitle,AirDate
+Caps Show,0,7,Untitled Episode,Unknown
+Comma Show,1,2,"Hello, World",2015-05-05
+Date Show,1,1,Pilot,2022-01-09
+Float Show,0,0,Decimals,2019-05-01
+Negative Show,0,0,Bad Numbers,2018-08-08
+Unicode Show,1,1,Título Con Acentos,2017-07-07
+Weird Spacing Series,0,0,A Title,2020-02-20
+Weird Spacing Series,1,2,A Title,2020-02-20
